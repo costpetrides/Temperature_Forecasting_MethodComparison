@@ -1,1 +1,1 @@
-# emperatureForecasting_MethodComparison
+# TemperatureForecasting_MethodComparison
