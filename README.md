@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/11jBBr4mWOuBRx3ttGlIut1jJO2pvndly/view?usp=sharing" target="_blank">
+  <a href="https://github.com/costpetrides/Temperature_Forecasting_MethodComparison/blob/main/LSTM.ipynb" target="_blank">
    <img src="Images/LSTM.png" style="width: 50%; height: 50%; object-fit: cover;" loop>
   </a>
 </p>
