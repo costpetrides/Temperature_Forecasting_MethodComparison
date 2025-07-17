@@ -7,7 +7,9 @@
    <img src="Images/ETS.png" style="width: 50%; height: 50%; object-fit: cover;" loop>
   </a>
 </p>
-# Statistical (with ML elements)
+
+## Statistical (with ML elements)
+
 <p align="center">
   <a href="https://github.com/costpetrides/Temperature_Forecasting_MethodComparison/blob/main/Prophet.ipynb" target="_blank">
    <img src="Images/PROPHET.png" style="width: 50%; height: 50%; object-fit: cover;" loop>
